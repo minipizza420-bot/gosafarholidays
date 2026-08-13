@@ -163,9 +163,9 @@ export const DESTINATIONS: Destination[] = [
     rating: 4.9,
     reviewCount: 2800,
     startPriceINR: 5499,
-    image: "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?auto=format&fit=crop&w=800&q=80",
+    image: "/ujjain.jpg",
     gallery: [
-      "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?auto=format&fit=crop&w=1200&q=80"
+      "/ujjain.jpg"
     ],
     description: "Spiritual yatra to Ujjain for VIP Mahakaleshwar Bhasma Aarti darshan, Mahakal Lok Corridor, Kal Bhairav temple, and Shipra River Sandhya Aarti.",
     highlights: ["Mahakaleshwar Bhasma Aarti", "Mahakal Lok Corridor", "Kal Bhairav Temple", "Ram Ghat Aarti"],
@@ -257,8 +257,8 @@ export const DESTINATIONS: Destination[] = [
     rating: 4.85,
     reviewCount: 1650,
     startPriceINR: 8499,
-    image: "https://images.unsplash.com/photo-1572445271230-a78b5944a659?auto=format&fit=crop&w=800&q=80",
-    gallery: ["https://images.unsplash.com/photo-1572445271230-a78b5944a659?auto=format&fit=crop&w=1200&q=80"],
+    image: "/jaisalmer.jpg",
+    gallery: ["/jaisalmer.jpg"],
     description: "Step into Arabian Nights in Jaisalmer. Tour the golden sandstone fort, Patwon Ki Haveli, and stay in Swiss desert tents at Sam Sand Dunes with folk dance.",
     highlights: ["Golden Fort Walk", "Patwon Ki Haveli", "Sam Sand Dunes Camel Safari", "Desert Camp Folk Show"],
     bestTimeToVisit: "October to March",
@@ -308,8 +308,8 @@ export const DESTINATIONS: Destination[] = [
     rating: 4.88,
     reviewCount: 2100,
     startPriceINR: 13999,
-    image: "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?auto=format&fit=crop&w=800&q=80",
-    gallery: ["https://images.unsplash.com/photo-1561361513-2d000a50f0dc?auto=format&fit=crop&w=1200&q=80"],
+    image: "/do dham yatra.png",
+    gallery: ["/do dham yatra.png"],
     description: "Special spiritual itinerary for Kedarnath and Badrinath Dham. Includes transport, hotel accommodations, guide support, and visits to Panch Prayag sangams.",
     highlights: ["Kedarnath Temple Darshan", "Badrinath Temple & Tapt Kund", "Devprayag & Rudraprayag Sangam", "Mana Village"],
     bestTimeToVisit: "May to June & September to November",

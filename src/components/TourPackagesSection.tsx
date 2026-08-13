@@ -96,7 +96,7 @@ export const TourPackagesSection: React.FC<TourPackagesSectionProps> = ({
             {/* Icon Badge Top Left */}
             <div className="absolute top-4 left-4 w-11 h-11 bg-white/25 backdrop-blur-md rounded-none border border-white/30 flex items-center justify-center text-white">
               <Mountain className="w-5 h-5" />
-            </div>
+            </div> 
 
             {/* Price Badge Top Right */}
             <div className="absolute top-4 right-4 bg-white/95 backdrop-blur-md px-3 py-1 rounded-none text-xs font-bold text-slate-900 shadow-sm flex items-center gap-1">
@@ -123,4 +123,3 @@ export const TourPackagesSection: React.FC<TourPackagesSectionProps> = ({
     </section>
   );
 };
-

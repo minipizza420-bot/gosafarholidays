@@ -9,7 +9,7 @@ export interface BookingItemDetails {
 }
 
 export function openWhatsAppBooking(item?: BookingItemDetails) {
-  const whatsappNumber = '917869916264';
+  const whatsappNumber = '916232373630';
   
   let message = '';
   
