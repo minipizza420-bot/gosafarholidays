@@ -1,0 +1,8 @@
+{
+  "name": "Remix Go Safar Holidays with hero section",
+  "description": "Discover breathtaking destinations and curated tour packages across India with Go Safar Holidays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
