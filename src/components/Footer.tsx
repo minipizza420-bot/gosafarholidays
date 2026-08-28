@@ -1,5 +1,5 @@
 import React from 'react';
-import { Compass, Mail, Phone, MapPin, Instagram, Facebook, Heart } from 'lucide-react';
+import { Mail, Phone, MapPin, Instagram, Facebook } from 'lucide-react';
 
 interface FooterProps {
   onNavClick: (tab: string) => void;
@@ -102,11 +102,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavClick }) => {
             <div className="space-y-3 text-xs sm:text-sm text-slate-400">
               <div className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 text-emerald-400 flex-shrink-0 mt-0.5" />
-                <span>Go Safar Holidays Head Office, India</span>
-              </div>
-              <div className="flex items-center gap-2">
-                <Phone className="w-4 h-4 text-emerald-400 flex-shrink-0" />
-                <span>Helpline: +91 7049468433</span>
+                <span>India, New Delhi 110001</span>
               </div>
               <div className="flex items-center gap-2">
                 <Phone className="w-4 h-4 text-emerald-400 flex-shrink-0" />

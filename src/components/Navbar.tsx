@@ -278,9 +278,6 @@ export const Navbar: React.FC<NavbarProps> = ({
 
           <div className="mt-4 pt-3 border-t border-slate-100 flex flex-col gap-1.5 text-xs text-slate-500">
             <span className="flex items-center gap-1">
-              <PhoneCall className="w-3.5 h-3.5 text-emerald-600" /> Helpline: +91 7049468433
-            </span>
-            <span className="flex items-center gap-1">
               <PhoneCall className="w-3.5 h-3.5 text-emerald-600" /> WhatsApp: +91 6232373630
             </span>
           </div>

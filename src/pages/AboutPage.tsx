@@ -20,13 +20,6 @@ export const AboutPage: React.FC = () => {
 
         <div className="pt-4 border-t border-slate-100 flex flex-col sm:flex-row items-center justify-center gap-4">
           <a
-            href="tel:+917049468433"
-            className="inline-flex items-center gap-2 bg-[#202b3c] hover:bg-[#131b27] text-white font-bold px-6 py-3.5 rounded-full text-sm transition-all shadow-md"
-          >
-            <Phone className="w-4 h-4 text-emerald-400" />
-            <span>Helpline: +91 7049468433</span>
-          </a>
-          <a
             href="https://wa.me/916232373630"
             target="_blank"
             rel="noreferrer"
